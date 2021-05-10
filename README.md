@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Honey-bee-code
+- 👋 Hi, I’m Muhammad Aulia Hanifi, call me Hanifi
 - 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning PHP, Javascript, and Python
-- 💞️ I’m looking to collaborate on web developer
-
-<!---
-Honey-bee-code/Honey-bee-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m coding with PHP, Javascript, Laravel, NodeJS, Express
+- 💞️ I’m looking for job on web developer
